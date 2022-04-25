@@ -1,0 +1,6 @@
+#+title: Lin OS (Arch Based)
+#+author: Lin Diniz
+#+date: <2022-04-25 Mon>
+
+
+* LIN OS
